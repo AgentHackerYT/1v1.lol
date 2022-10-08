@@ -3,6 +3,6 @@
 - Note: Linux Version Not Tested
 # Important
 - No Rights Reserved
-- I will take if the owner of 1v1.lol has any issues with this fan made app for windows/linux
+- I will take down if the owner of 1v1.lol has any issues with this fan made app for windows/linux
 # Updates
 - Pre Alpha v1: App Published for Linux and Windows
