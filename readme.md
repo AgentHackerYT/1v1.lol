@@ -7,5 +7,5 @@
 # Updates
 - Pre Alpha v1: App Published for Linux and Windows
 # Known Bugs
-- Logo Not Loading 
+- Logo Not Loading (Hence Removed from final build) 
 - Windows Smartscreen Unrecognized app
