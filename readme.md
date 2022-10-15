@@ -6,3 +6,6 @@
 - I will take down if the owner of 1v1.lol has any issues with this fan made app for windows/linux
 # Updates
 - Pre Alpha v1: App Published for Linux and Windows
+# Known Bugs
+- Logo Not Loading 
+- Windows Smartscreen Unrecognized app
